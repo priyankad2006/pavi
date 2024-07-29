@@ -1,4 +1,4 @@
-function addition()
+function addition(var1,var2)
 {
 var number1=document.getElementById("t1").value;
 var number2=document.getElementById("t2").value;
